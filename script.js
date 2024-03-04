@@ -25,7 +25,7 @@ setTimeout(() => {
                     count.innerHTML = counter--;
                     count.innerHTML = "";
                     count.style.backgroundImage =
-                      "url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news9live.com%2Fphotogallery%2Flifestyle-images%2Ffrom-wallpapers-to-whatsapp-discover-perfect-indian-flag-images-and-captivating-gifs-for-you-2415339&psig=AOvVaw0bSp6mxrBVOX_MywaE2FR4&ust=1709655909345000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi2s9qC24QDFQAAAAAdAAAAABAJ')";
+                      "url('https://media3.giphy.com/media/gWhzI4AeKa9KdOLhUh/giphy.gif?cid=ecf05e47vgqti9jt0dincdvzz6eqsumv0ajcykbc2p18src0&ep=v1_gifs_search&rid=giphy.gif&ct=g')";
                   }, 1000);
                 }, 1000);
               }, 1000);
